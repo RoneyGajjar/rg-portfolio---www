@@ -5,9 +5,3 @@ export const Section = (props: any) => {
     </div>
   )
 }
-
-export const Button = (props: any) => {
-    return (
-        <button>BTN</button>
-    )
-}
