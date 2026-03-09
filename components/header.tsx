@@ -10,7 +10,7 @@ const Header = () => {
                     <img src="profile-photo.png" alt="" className="h-10 w-10 rounded-full" />
                     <div className="flex flex-col ml-3">
                         <span className="font-semibold">Roney Gajjar</span>
-                        <span className="text-sm">Presently at Honey Hexa</span>
+                        <span className="text-sm">Presently at Rsons Techlabs</span>
                     </div>
                 </div>
                 <div className="text-sm md:text-base font-semibold flex flex-row p-2">
